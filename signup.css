@@ -1,0 +1,16 @@
+.additional-options {
+  display: flex;
+  margin-top: 15px;
+  background-image: url('carr.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.additional-options a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.additional-options a:hover {
+  text-decoration: underline;
+}
